@@ -1,6 +1,6 @@
 # codextrial
 
-This repository contains a simple Flask web application that generates a personalized diet plan.
+This repository contains a simple Flask web application that helps you discover which of the four classic temperaments best describes you.
 
 ## Running the app
 
@@ -12,6 +12,4 @@ This repository contains a simple Flask web application that generates a persona
    ```bash
    python app.py
    ```
-3. Open your web browser and go to `http://localhost:5000` to view the form and generate your diet plan.
-
-The generated plan is for general informational purposes only and should not be considered medical advice.
+3. Open your web browser and go to `http://localhost:5000` to answer the questions and view your temperament result.
